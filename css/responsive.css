@@ -1,0 +1,28 @@
+@media (max-width: 1024px) {
+  .top-wrapper {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .mainvisual {
+    width: 100%;
+  }
+
+  .container {
+    padding: 0 40px;
+  }
+  .detail-object {
+    display: block;
+  }
+  .detail-object img {
+    margin-right: 0;
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  .detail-object p {
+    padding-top: 26px;
+  }
+  footer {
+    padding-top: 18.5px;
+    padding-bottom: 15px;
+  }
+}
